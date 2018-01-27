@@ -1,0 +1,2 @@
+webpackJsonp([81878219163735],{328:function(p,t){p.exports={data:{markdownRemark:{html:"<p>第三个故事</p>"}},pathContext:{slug:"/posts/3/",pid:3,next:"/posts/4",prev:"/posts/2"}}}});
+//# sourceMappingURL=path---posts-3-70c44dc7f7400f8af04e.js.map

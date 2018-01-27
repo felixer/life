@@ -1,0 +1,2 @@
+webpackJsonp([0xc4ac33a0ac61],{327:function(p,t){p.exports={data:{markdownRemark:{html:"<p>第二个故事</p>"}},pathContext:{slug:"/posts/2/",pid:2,next:"/posts/3",prev:"/posts/1"}}}});
+//# sourceMappingURL=path---posts-2-bc2d82cadb81fcc23a1c.js.map
